@@ -1,0 +1,27 @@
+{
+  "Deploy": {
+    "Project": {
+      "Name": "erics thoughtful hedgehog",
+      "Alias": "erics-thoughtful-hedgehog",
+      "Id": "491b091a-6a59-4862-bb44-653baf17bd08",
+      "TrialExpireDate": "2023-04-06T11:29:53.0000000",
+      "Workspaces": [
+        {
+          "Id": "8e463554-4c77-4643-8d33-01631e5d3726",
+          "Name": "Live",
+          "Type": "live",
+          "Url": "https://erics-thoughtful-hedgehog.euwest01.umbraco.io"
+        }
+      ]
+    },
+    "Settings": {
+      "ApiKey": "63CB2131B918FD7243D3A63930A8101C473966C4"
+    }
+  },
+  "Identity": {
+    "ClientId": "0297c0f6-83ad-4481-9ae2-07a3f5475333",
+    "ClientSecret": "Q5~T526ixOHlj47lg7Mu7_.zN1fK.7ua.9",
+    "EnvironmentId": "8e463554-4c77-4643-8d33-01631e5d3726",
+    "LocalLoginRedirectUri": "https://redirect.identity.umbraco.com"
+  }
+}
